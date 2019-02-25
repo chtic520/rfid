@@ -1,0 +1,11 @@
+/* =========
+Your custom styles go here
+ ========= */
+.bgi{
+	background: url('./bgi.png') center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.form-bg{
+
+}
